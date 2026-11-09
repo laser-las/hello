@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "halcyon (Release)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/bin/Release/net8.0-windows/halcyon.exe",
+      "args": [],
+      "cwd": "${workspaceFolder}/bin/Release/net8.0-windows",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    },
+    {
+      "name": "halcyon --dump (Release)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/bin/Release/net8.0-windows/halcyon.exe",
+      "args": ["--dump"],
+      "cwd": "${workspaceFolder}/bin/Release/net8.0-windows",
+      "console": "internalConsole",
+      "stopAtEntry": false
+    }
+  ]
+}

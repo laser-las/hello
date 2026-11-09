@@ -16,7 +16,7 @@ exit /b 0
 :msvc
 cl /nologo /std:c++17 /EHsc /O2 /W4 /utf-8 /DUNICODE /D_UNICODE ^
    src\main.cpp src\common.cpp src\mem.cpp src\config.cpp src\game.cpp ^
-   src\overlay.cpp src\aim.cpp src\esp.cpp ^
+   src\overlay.cpp src\aim.cpp src\esp.cpp src\menu.cpp src\misc.cpp ^
    /Fe:halcyon.exe /link user32.lib gdi32.lib gdiplus.lib winmm.lib
 if errorlevel 1 exit /b 1
 echo.

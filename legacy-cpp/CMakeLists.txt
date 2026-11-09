@@ -14,6 +14,8 @@ add_executable(halcyon
     src/overlay.cpp
     src/aim.cpp
     src/esp.cpp
+    src/menu.cpp
+    src/misc.cpp
 )
 
 target_compile_definitions(halcyon PRIVATE UNICODE _UNICODE WIN32_LEAN_AND_MEAN NOMINMAX)
@@ -36,6 +38,6 @@ set_target_properties(halcyon PROPERTIES OUTPUT_NAME "halcyon")
 
 add_custom_command(TARGET halcyon POST_BUILD
     COMMAND ${CMAKE_COMMAND} -E copy_if_different
-            "${CMAKE_CURRENT_SOURCE_DIR}/config.ini"
+            "${CMAKE_CURRENT_SOURCE_DIR}/../config.ini"
             "$<TARGET_FILE_DIR:halcyon>/config.ini"
 )
