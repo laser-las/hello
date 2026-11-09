@@ -1,0 +1,16 @@
+/mnt/c/Users/robin.ostmark/Desktop/hello/bin/Release/net8.0-windows/config.ini
+/mnt/c/Users/robin.ostmark/Desktop/hello/bin/Release/net8.0-windows/halcyon
+/mnt/c/Users/robin.ostmark/Desktop/hello/bin/Release/net8.0-windows/halcyon.deps.json
+/mnt/c/Users/robin.ostmark/Desktop/hello/bin/Release/net8.0-windows/halcyon.runtimeconfig.json
+/mnt/c/Users/robin.ostmark/Desktop/hello/bin/Release/net8.0-windows/halcyon.dll
+/mnt/c/Users/robin.ostmark/Desktop/hello/bin/Release/net8.0-windows/halcyon.pdb
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/Halcyon.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/Halcyon.AssemblyInfoInputs.cache
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/Halcyon.AssemblyInfo.cs
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/Halcyon.csproj.CoreCompileInputs.cache
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/Halcyon.sourcelink.json
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/halcyon.dll
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/refint/halcyon.dll
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/halcyon.pdb
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/Halcyon.genruntimeconfig.cache
+/mnt/c/Users/robin.ostmark/Desktop/hello/obj/Release/net8.0-windows/ref/halcyon.dll

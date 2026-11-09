@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hwoBCinauH4=",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/robin.ostmark/Desktop/hello/Halcyon.csproj",
+  "expectedPackageFiles": [
+    "/home/robinostmark/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.33/microsoft.windowsdesktop.app.ref.8.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
